@@ -1,1 +1,1 @@
-Betty in my fisrt directory
+Bye bye Betty
