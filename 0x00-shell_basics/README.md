@@ -1,1 +1,1 @@
-Welcome
+Betty in my fisrt directory
